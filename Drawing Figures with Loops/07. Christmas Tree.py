@@ -8,6 +8,6 @@ for row in range(0, n + 1):
     print(" | ", end="")
     for k in range(0, row):
         print("*", end="")
-    for p in range(n-row):
+    for p in range(n - row):
         print(" ", end="")
     print()
