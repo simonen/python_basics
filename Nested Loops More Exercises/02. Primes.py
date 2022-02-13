@@ -7,4 +7,4 @@ for num in range(first, second + 1):
             is_prime = False
             break
     if is_prime:
-        print(num)
+        print(num, end=", ")
