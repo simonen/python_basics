@@ -16,5 +16,3 @@ for day in range(1, days + 1):
     print(f"Day: {day} - {cost:.2f} leva")
 
 print(f"Total: {grand_total:.2f} leva")
-
-"Day: {индексът на деня} – {общата сума за деня} leva"
